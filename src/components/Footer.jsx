@@ -7,12 +7,12 @@ export default function Footer() {
         <h3 className="font-semibold">
           Built with ❤️ by{" "}
           <a
-            href="http://github.com/amnesia2k"
+            href="https://github.com/MickyDev1"
             target="_blank"
             rel="noopener noreferrer"
             className="font-bold italic"
           >
-            Ola_the_Dev
+            Micky Dev
           </a>
         </h3>
       </div>

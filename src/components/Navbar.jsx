@@ -29,7 +29,7 @@ export default function Navbar() {
         <div>
           <Link to={"/my-tickets"}>
             <button className="bg-white py-3 px-5 rounded-xl text-[#0a0c11] font-merriweather text-sm md:text-base leading-[20px] cursor-pointer flex items-center gap-3">
-              My Tickets
+              
               <ArrowRight />
             </button>
           </Link>
