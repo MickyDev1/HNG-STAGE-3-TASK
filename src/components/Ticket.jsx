@@ -21,15 +21,15 @@ export default function Ticket() {
         <div className="absolute inset-0 w-[90%] h-[75%] rounded-xl mt-5 mx-auto z-50 py-2 px-3 border border-[#24A0B5] space-y-5">
           <div className="text-center space-y-4">
             <h3 className="font-road-rage text-[34px] leading-[34px]">
-              Techember Fest ”25
+              Techember Fest ”24
             </h3>
 
             <div className="space-y-2">
               <p className="text-[14px] font-[400px] leading-[15px]">
-                📍 04 Rumens road, Ikoyi, Lagos
+                📍 04 Rumens road, Ikoyi, Lagos Nigeria
               </p>
               <p className="text-[14px] font-[400px] leading-[15px]">
-                📅 March 15, 2025 | 7:00 PM
+                📅 March 15, 2025 | 9:00 AM
               </p>
             </div>
           </div>
